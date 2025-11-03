@@ -25,7 +25,10 @@ QMF2_2_Modelling_MonteCarloSimulations
 QMF2_3_Modelling_Regression
 QMF2_4_Modelling_RegressionTestingCAPM
 3.	Machine Learning
+QMF3_0_FeaturesTransformation_PCA
 QMF3_1_MachineLearning_Supervised
+QMF3_2_MachineLearning_Supervised_CreditBonds
+
 This is a work in progress! Additional material will follow on Machine Larning examples and applications.
 Suggested Prework
 Introduction to MATLAB
