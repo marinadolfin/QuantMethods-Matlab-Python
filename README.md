@@ -28,6 +28,9 @@ QMF1_7_Data_Analysis_Overfitting
 
 QMF1_8_Data_Analysis_MissingData
 
+QMF1_8_Data_Analysis_Montecarlo
+
+QMF1_8_Data_Analysis_Bootstraping
 
 2.	Modelling
    
