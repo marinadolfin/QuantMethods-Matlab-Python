@@ -32,6 +32,8 @@ QMF1_9_Data_Analysis_Montecarlo
 
 QMF1_10_Data_Analysis_Bootstraping
 
+QMF1_11_Data_Analysis_RegularizationTechniques
+
 2.	Modelling
    
 QMF2_1_Modelling_Optimization
