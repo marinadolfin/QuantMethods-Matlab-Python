@@ -34,11 +34,17 @@ QMF1_10_Data_Analysis_Bootstraping
 QMF1_11_Data_Analysis_RegularizationTechniques
 3.	Modelling
 QMF2_1_Modelling_Optimization
+
 QMF2_2_Modelling_MonteCarloSimulations
+
 QMF2_3_Modelling_Regression
+
 QMF2_4_Modelling_RegressionTestingCAPM
+
 4.	Machine Learning
+5.	
 QMF3_1_MachineLearning_Supervised
+
 This is a work in progress! Additional material will follow on Machine Larning examples and applications.
 Suggested Prework
 Introduction to MATLAB
