@@ -12,19 +12,32 @@ Contents
 The repository is organized into folders corresponding to the following chapters:
 1.	Data Analysis
 QMF1_1_Data_Analysis_ImportingData
+
 QMF1_2_Data_Analysis_FetchData
+
 QMF1_3_Data_Analysis_Distributions
+
 QMF1_4_Data_Analysis_Normalization
+
 QMF1_5_Data_Analysis_Detrending
+
 QMF1_6_Data_Analysis_SmoothingData
+
 QMF1_7_Data_Analysis_Overfitting
+
 QMF1_8_Data_Analysis_MissingData
-2.	Modelling
+
+QMF1_9_Data_Analysis_MonteCarlo
+
+QMF1_10_Data_Analysis_Bootstraping
+
+QMF1_11_Data_Analysis_RegularizationTechniques
+3.	Modelling
 QMF2_1_Modelling_Optimization
 QMF2_2_Modelling_MonteCarloSimulations
 QMF2_3_Modelling_Regression
 QMF2_4_Modelling_RegressionTestingCAPM
-3.	Machine Learning
+4.	Machine Learning
 QMF3_1_MachineLearning_Supervised
 This is a work in progress! Additional material will follow on Machine Larning examples and applications.
 Suggested Prework
