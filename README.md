@@ -21,7 +21,7 @@ QMF1_7_Data_Analysis_Overfitting
 QMF1_8_Data_Analysis_MissingData
 2.	Modelling
 QMF2_1_Modelling_Optimization
-QMF2_2_Modelling_MonteCarloSimulations
+QMF2_2_Modelling_MonteCarloSimulation
 QMF2_3_Modelling_Regression
 QMF2_4_Modelling_RegressionTestingCAPM
 3.	Machine Learning
